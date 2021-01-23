@@ -125,9 +125,9 @@ fire extinguishers must be immediately available whenever flammables are being h
 be within talking distance when any chemicals or flammables are being used.
 7. Machine tools are to be used properly by trained individuals. Leaving the machine clean is a part of using the
 machine properly. Any malfunction or damage to the machines that renders them unsafe for continued use must be marked
-"DOWN" in the Shared User Management System ("SUMS") and immediately reported by email to ​[scc@me.gatech.edu][sccrt].
+"DOWN" in the Shared User Management System ("SUMS") and immediately reported by email to [scc@me.gatech.edu][sccrt].
 If a malfunction occurs, but the machine can still be used safely (for example, if the probe is damaged on the Haas), do
-not mark it "DOWN" but report it by email to ​[scc@me.gatech.edu][sccrt].
+not mark it "DOWN" but report it by email to [scc@me.gatech.edu][sccrt].
 8. All participants have the responsibility to keep both the common areas and the teams' areas clean so that the school
 will not be embarrassed by bringing campus visitors into the building at any time. This includes the days just before a
 competition and any time that the team is not fully active such as during summer break. You may not leave beverage
