@@ -110,7 +110,7 @@ immediate area capable of and trained to safely shut down any power equipment yo
 person must be within talking distance when any powered, sharp, or impact tools are being used. No logged-in machine
 may be left unattended at any time.
 3. Active use of the Common Machining Area and active noise-generating fabrication activities in team spaces should not
-occur during announced "Cold Shop" events, such as sponsor visits to the SCC. Such activities may resume after the end
+occur during announced "cold shop" events, such as sponsor visits to the SCC. Such activities may resume after the end
 of the scheduled visit, even if the sponsor is still present. You must apply all safety precautions with sponsors if
 they enter active work areas.
 4. Safety glasses are to be worn by everyone in the work area anytime that powered, sharp, or impact tools are being
