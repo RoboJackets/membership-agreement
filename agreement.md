@@ -147,7 +147,7 @@ must remain clear at all times.
 15. Personal or classroom projects must not be a distraction or take up space in any common area of the shop or the
 parking or drive areas outside the shop without explicit permission from Dr. Cunefare. Personal projects must not make
 any significant use of team or SCC consumable resources.
-16. Anytime a vehicle is parked in front of the roll-up door, the keys must be inside the building with someone who has
+16. Any time a vehicle is parked in front of the roll-up door, the keys must be inside the building with someone who has
 permission to move the vehicle at a moment's notice. Contact information for that individual must be prominently
 visible through the windshield.
 
