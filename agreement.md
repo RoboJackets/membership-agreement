@@ -96,7 +96,7 @@ found it. If you are unsure, please ask your team leadership.
 - Exits and walkways must be kept clear of furniture or workpieces for safe passage during an emergency.
 - Never modify any tool, and especially, never remove safety devices from tools.
 - If you see someone working in an unsafe manner, you must gently correct them as a colleague. If you feel uncomfortable
-with such, please contact your team leadership or Dr. Cunefare and inform them of the situation.
+doing so, please contact your team leadership or Dr. Cunefare and inform them of the situation.
 
 ## Student Competition Center Facility Rules
 
@@ -113,8 +113,8 @@ may be left unattended at any time.
 occur during announced "cold shop" events, such as sponsor visits to the SCC. Such activities may resume after the end
 of the scheduled visit, even if the sponsor is still present. You must apply all safety precautions with sponsors if
 they enter active work areas.
-4. Safety glasses are to be worn by everyone in the work area anytime that powered, sharp, or impact tools are being
-used. Respirators must be worn while cutting, sanding, or painting with materials prone to cause lung damage. You must
+4. Safety glasses must be worn by everyone in the work area anytime that powered, sharp, or impact tools are being used.
+Respirators must be worn while cutting, sanding, or painting with materials prone to cause lung damage. You must
 wear ear protection during times when the noise level is especially high or prolonged.
 5. Sandals, or other open toe shoes, are not allowed on the work floor of the shop at any time. You may wear sandals
 while working in the offices and on a reasonable path from the door to the offices only.
