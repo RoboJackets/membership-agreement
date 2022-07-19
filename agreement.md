@@ -40,8 +40,7 @@ or insurance. I expressly waive any such claim for compensation or liability on 
 be offered freely by RoboJackets in the event of injury or medical expenses incurred by me.
 6. **Photograph and Video Release:** I, the Participant, give RoboJackets the right and permission to use, reproduce,
 edit, display, copyright, and/or publish any and all photographs, images, video, or audio recordings of me or my
-likeness or voice made by or on behalf of RoboJackets in connection with my participation in activities and travel in
-connection with RoboJackets.
+likeness or voice made by or on behalf of RoboJackets in connection with my participation in RoboJackets activities and travel.
 
 ## School of Mechanical Engineering Instructional Labs and Fabrication Space User Agreement
 
