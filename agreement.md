@@ -70,7 +70,7 @@ your neck, or large jewelry that could pull you toward the machine.
 ### The buddy system applies whenever you’re using powered tools anywhere in the SCC
 
 - Work with at least one person within voice and visual distance of you when working in fabrication spaces.
-- You must not be separated by a closed door from your buddy.
+- You must not be separated from your buddy by a closed door.
 - Your work buddy must be trained and able to turn off the tool in an emergency.
 - Your buddy must be able to call Georgia Tech Police (404-894-2500) in an emergency.
 - The equipment user must confirm the above four requirements are met any time powered tools are in operation.
@@ -108,7 +108,7 @@ Respirators must be worn while cutting, sanding, or painting with materials pron
 must be worn during times when the noise level is especially high or prolonged.
 5. Sandals or other open toe shoes are not allowed on the work floor of the shop at any time. You may wear sandals while
 working in the offices and on a reasonable path from the door to the offices only.
-6. Flammables must be in sealed, correctly labeled containers, and inside a marked flammables cabinet. Containers capable
+6. Flammables must be in sealed, correctly labeled containers inside a marked flammables cabinet. Containers capable
 of holding more than 1 gallon of fuel must be stored in the flammables out-building when not being used to fill a
 vehicle. Leaking flammables (e.g., from vehicle fuel systems) must be corrected immediately upon detection. Appropriate
 fire extinguishers must be immediately available whenever flammables are being handled. At least one other person must
