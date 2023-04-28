@@ -1,3 +1,5 @@
+# RoboJackets Membership Agreement
+
 ## Preamble
 
 This agreement describes expectations for your behavior while on the Student Competition Center grounds, traveling with
@@ -141,17 +143,19 @@ Infractions of these rules may lead to individual and/or team sanctions, up to a
 
 If you need clarification on any of these rules, contact [scc@me.gatech.edu][sccrt].
 
-[sccrt]: mailto:scc@me.gatech.edu
-
 ## Student Competition Center Building Access Policy
 
-All teams and visitors within the Student Competition Center ("SCC") must follow these guidelines. Failure to follow these
-guidelines may result in removal of access to the space.
+All teams and visitors within the Student Competition Center ("SCC") must follow these guidelines. Failure to follow
+these guidelines may result in removal of access to the space.
 
-1. Members with BuzzCard access to the building may not let other members into the space, via car gate or door access, without getting explicit permission from the security desk, building management, Jacob Tompkins, or Dr. Rhett Mayor.
-2. Every vehicle must buzz in via BuzzCard. Multiple vehicles may not enter the parking lot during the same tap, even if the second vehicle has BuzzCard access.
-3. People without BuzzCard access must sign in at the security desk. This includes new members who have not yet received BuzzCard access, visitors, professors, or sponsors.
-4. Members of the SCC and visitors must only use the approved spaces listed below. If members are found wandering the space or attempting to access labs or other rooms, their access may be suspended.
+1. Members with BuzzCard access to the building may not let other members into the space, via car gate or door access,
+without getting explicit permission from the security desk, building management, Jacob Tompkins, or Dr. Rhett Mayor.
+2. Every vehicle must buzz in via BuzzCard. Multiple vehicles may not enter the parking lot during the same tap, even
+if the second vehicle has BuzzCard access.
+3. People without BuzzCard access must sign in at the security desk. This includes new members who have not yet
+received BuzzCard access, visitors, professors, or sponsors.
+4. Members of the SCC and visitors must only use the approved spaces listed below. If members are found wandering the
+space or attempting to access labs or other rooms, their access may be suspended.
 a. Main SCC area
 b. RoboJackets space
 c. Kitchenette
@@ -161,4 +165,7 @@ Direct any questions to the SCC Officers, Jacob Tompkins, or Dr. Rhett Mayor.
 
 ## Georgia Institute of Technology Image License & Release Form
 
-https://legal.gatech.edu/sites/default/files/images/gt_image_license_release_final_july_2022.pdf
+[Georgia Institute of Technology Image License & Release Form][gtform]
+
+[sccrt]: mailto:scc@me.gatech.edu
+[gtform]: https://legal.gatech.edu/sites/default/files/images/gt_image_license_release_final_july_2022.pdf
