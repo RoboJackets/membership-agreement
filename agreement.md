@@ -158,10 +158,10 @@ Tailgating behind another vehicle to gain entry is prohibited, even if the secon
 received BuzzCard access, visitors, professors, or sponsors.
 4. Members of the SCC and visitors must only use the approved spaces listed below. If members are found wandering the
 space or attempting to access labs or other rooms, their access may be suspended.
-  a. Main SCC area
-  b. RoboJackets space
-  c. Kitchenette
-  d. Conference rooms 1271, 1253, 1257, 1102, 1103, and the Boeing classroom
+  1. Main SCC area
+  2. RoboJackets space
+  3. Kitchenette
+  4. Conference rooms 1271, 1253, 1257, 1102, 1103, and the Boeing classroom
 
 Direct any questions to the SCCGB officers, Jacob Tompkins (SCC Operations Support), or Dr. Mayor (SCC Faculty Advisor).
 
