@@ -152,7 +152,7 @@ these guidelines may result in removal of access to the space.
 1. Members with BuzzCard access to the building may not let other members into the space, via vehicle gate or door access,
 without getting explicit permission from the security desk, building management, Jacob Tompkins (SCC Operations
 Support), or Dr. Mayor (SCC Faculty Advisor).
-2. Every vehicle must be granted access to the parking lot by presenting a valid BuzzCard to the card reader. 
+2. Every vehicle must be granted access to the parking lot by presenting a valid BuzzCard to the card reader.
 Tailgating behind another vehicle to gain entry is prohibited, even if the second vehicle would otherwise have access.
 3. People without BuzzCard access must sign in at the security desk. This includes new members who have not yet
 received BuzzCard access, visitors, professors, or sponsors.
