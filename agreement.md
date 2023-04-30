@@ -148,10 +148,10 @@ If you need clarification on any of these rules, contact [scc@me.gatech.edu][scc
 All teams and visitors within the Student Competition Center ("SCC") must follow these guidelines. Failure to follow
 these guidelines may result in removal of access to the space.
 
-1. Members with BuzzCard access to the building may not let other members into the space, via car gate or door access,
-without getting explicit permission from the security desk, building management, Jacob Tompkins, or Dr. Rhett Mayor.
-2. Every vehicle must buzz in via BuzzCard. Multiple vehicles may not enter the parking lot during the same tap, even
-if the second vehicle has BuzzCard access.
+1. Members with BuzzCard access to the building may not let other members into the space, via vehicle gate or door access,
+without getting explicit permission from the security desk, building management, Jacob Tompkins, or Dr. Mayor.
+2. Every vehicle must be granted access to the parking lot by presenting a valid BuzzCard to the card reader. 
+Tailgating behind another vehicle to gain entry is prohibited, even if the second vehicle would otherwise have access.
 3. People without BuzzCard access must sign in at the security desk. This includes new members who have not yet
 received BuzzCard access, visitors, professors, or sponsors.
 4. Members of the SCC and visitors must only use the approved spaces listed below. If members are found wandering the
@@ -161,7 +161,7 @@ b. RoboJackets space
 c. Kitchenette
 d. Conference rooms 1271, 1253, 1257, 1102, 1103, and the Boeing classroom
 
-Direct any questions to the SCCGB officers, Jacob Tompkins, or Dr. Rhett Mayor.
+Direct any questions to the SCCGB officers, Jacob Tompkins, or Dr. Mayor.
 
 ## Georgia Institute of Technology Image License & Release Form
 
